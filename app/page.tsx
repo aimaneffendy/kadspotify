@@ -109,7 +109,7 @@ export default function SpotifyWeddingPro() {
             
             <motion.div className="flex-1 w-full overflow-hidden flex items-center justify-center">
   <img 
-    src="/dinda2.JPEG?auto=format&fit=crop&q=100" 
+    src="/dinda2.jpg?auto=format&fit=crop&q=100" 
     className="w-full aspect-square object-cover rounded-md shadow-lg" 
     alt="Main" 
   />

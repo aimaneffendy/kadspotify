@@ -149,10 +149,10 @@ export default function SpotifyWeddingPro() {
           <section className="h-screen w-full snap-start flex flex-col p-8 pt-24 bg-[#e91429] text-black overflow-hidden relative">
             <h2 className="text-[11px] font-black uppercase tracking-[0.2em] mb-12 text-black/60">Lyrics</h2>
             <div className="space-y-6 font-black text-[38px] tracking-tighter leading-[1.05] text-left">
-              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>SAVE THE DATE.</motion.p>
-              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>SUNDAY, 07 JUNE.</motion.p>
-              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>AT ECOHILL WALK.</motion.p>
-              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }} className="text-black/40 italic">SEMENYIH SELANGOR.</motion.p>
+              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>Save The Date.</motion.p>
+              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>Sunday, 07 June.</motion.p>
+              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>AT Crazy Rich Asians, Ecohill Walk,</motion.p>
+              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }} className="text-black/40 italic">Setia Ecohill, Semenyih.</motion.p>
               <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }} className="text-xl pt-6 text-black/80 font-bold uppercase tracking-widest leading-relaxed">
                 "And we will write our own story, tonight."
               </motion.p>
@@ -202,7 +202,7 @@ export default function SpotifyWeddingPro() {
              <button className="w-full max-w-xs py-5 bg-[#1DB954] text-black rounded-full font-black text-sm uppercase tracking-[0.2em] shadow-2xl hover:scale-105 active:scale-95 transition-all flex items-center justify-center gap-3">
                <Share2 size={18} /> Confirm RSVP
              </button>
-             <p className="mt-8 text-[10px] font-black text-[#535353] uppercase tracking-[0.5em]">Spotify Wrapped • 2026 Edition</p>
+             <p className="mt-8 text-[10px] font-black text-[#535353] uppercase tracking-[0.5em]">AimanXAdinda • 2026 </p>
           </section>
 
         </div>

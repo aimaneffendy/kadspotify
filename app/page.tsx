@@ -151,7 +151,7 @@ export default function SpotifyWeddingPro() {
             <div className="space-y-6 font-black text-[38px] tracking-tighter leading-[1.05] text-left">
               <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>Save The Date.</motion.p>
               <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>Sunday, 07 June.</motion.p>
-              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>AT Crazy Rich Asians, Ecohill Walk,</motion.p>
+              <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }}>At Crazy Rich Asians, Ecohill Walk,</motion.p>
               <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }} className="text-black/40 italic">Setia Ecohill, Semenyih.</motion.p>
               <motion.p initial={{ opacity: 0.3 }} whileInView={{ opacity: 1 }} className="text-xl pt-6 text-black/80 font-bold uppercase tracking-widest leading-relaxed">
                 "And we will write our own story, tonight."
